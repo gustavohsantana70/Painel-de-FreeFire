@@ -1,0 +1,21 @@
+{
+  "name": "FireMaster Performance Suite",
+  "short_name": "FireMaster",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#00ff00",
+  "description": "Painel de otimização gamer com IA.",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10003/10003848.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/10003/10003848.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
